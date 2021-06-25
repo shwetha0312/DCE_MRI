@@ -1,7 +1,6 @@
-Matlab scripts for Direct Reconstruction in DCE-MRI
+Matlab scripts for Direct Reconstruction in DCE-MRI for E-Tofts Model
 ============================================================
-
-(c) *Yi Guo*, *Sajan Goud Lingala*, *Krishna Nayak*, Jul 2016.
+Adapted some of the code written by *Yi Guo*, *Sajan Goud Lingala*, *Krishna Nayak*, Jul 2016.
 
 [Magnetic Resonance Engineering Laboratory](https://mrel.usc.edu)
 
@@ -39,7 +38,7 @@ https://drive.google.com/file/d/0B4nLrDuviSiWcGFPOUV1b2VrZUU/view?usp=sharing fo
 I have modified the above code for Estimation of Ktrans, Kep and Vp (Etofts model) from undersampled K-space
 
 **Kt_Vp_SEN_AD_3d.m**:
-Main script for defining undersampling rates and other 	 parameters
+Main script for defining undersampling rates and other parameters
 
 **Kt_Vp_Kep_SEN**: 
 Reconstructs Ktrans, Vp and Kep all together.
