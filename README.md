@@ -1,10 +1,6 @@
 Matlab scripts for Direct Reconstruction in DCE-MRI for E-Tofts Model
 ============================================================
-Adapted some of the code written by *Yi Guo*, *Sajan Goud Lingala*, *Krishna Nayak*, Jul 2016.
-
-[Magnetic Resonance Engineering Laboratory](https://mrel.usc.edu)
-
-**University of Southern California**
+Adapted some of the code written by *Yi Guo*, *Sajan Goud Lingala*, *Krishna Nayak*, Jul 2016. [Magnetic Resonance Engineering Laboratory](https://mrel.usc.edu)
 
 Code Structure
 --------------
